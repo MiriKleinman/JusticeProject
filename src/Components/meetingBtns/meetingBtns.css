@@ -1,0 +1,18 @@
+.meetingBtns-wrraper {
+    display: flex;
+    gap: 5px;
+    justify-content: center;
+    margin-top: auto;
+}
+
+.meetingBtn {
+    background-color: #404040 !important;
+    color: white !important;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif !important;
+    font-size: 0.65rem !important;
+    border-radius: 15px !important;
+    width: 85px;
+}
+

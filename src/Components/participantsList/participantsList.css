@@ -1,0 +1,16 @@
+.participantsList-wrapper {
+    display: grid;
+    grid-template-rows: auto auto;
+    grid-gap: 10px;
+    justify-items: center;
+    padding-bottom: 25px;
+}
+
+.upper-part, .lower-part {
+    display: flex;
+    flex-wrap: nowrap; 
+    justify-content: center;
+    gap: 10px;
+}
+
+

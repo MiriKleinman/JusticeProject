@@ -1,0 +1,60 @@
+.MuiCardContent-root {
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    direction: rtl;
+    opacity: 0.8;
+}
+
+.MuiCardMedia-root {
+    background-position: inherit !important;
+}
+
+.cardMedia-wrraper {
+    position: relative;
+}
+
+.overlay-div {
+    position: absolute;
+    top: 0;
+    right: 0;
+    margin: 8px;
+    background-color: white;
+    color: rgba(0, 0, 0, 0.5);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 10px;
+    border-radius: 5px;
+    font-weight: 700;
+    height: 25px;
+    width: auto;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+
+.participantRole, .participantName {
+    font-size: 12px;
+    font-weight: 500;
+}
+
+.participantRole {
+    color: #007FFF;
+}
+
+.MuiSvgIcon-root {
+    width: 0.8em !important;
+    height: 0.8em !important;
+}
+
+.emblemOfIsraelMini {
+    width: 26px;
+}
+
+.participant-wrapper {
+    width: 50vh;
+}
+
+

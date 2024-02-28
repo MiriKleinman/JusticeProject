@@ -1,0 +1,88 @@
+.menu-wrraper{
+    height: 100vh;
+    display: flex;
+    justify-content: space-between;
+}
+
+.ps-sidebar-container.css-dip3t8 {
+    background-color: #303030;
+}
+
+.ps-sidebar-root.css-1wvake5 {
+    width: 150px;
+    min-width: 150px;
+}
+
+.ps-menu-root {
+    position: relative;
+    top: 25%;
+}
+
+.css-1t8x7v1 >.ps-menu-button {
+    color: white !important;
+}
+
+.ps-menu-button {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.ps-menuitem-root {
+    margin-bottom: 10%;
+    margin-top: 10%;
+}
+
+.ps-menuitem-root :hover {
+    background-color: #404040 !important;
+}
+
+.smallFont {
+    font-size: 12px;
+}
+
+.css-wx7wi4 {
+    margin-right: 0 !important;
+}
+
+.emblemOfIsrael {
+    width: 40% !important;
+    position: absolute;
+    left: 30%;
+}
+
+.leaveMeetingBtn {
+    background-color: #404040 !important;
+    color: #CD5C5C !important;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif !important;
+    font-size: 0.65rem !important;
+    border-radius: 15px !important;
+    left: 25%;
+    top: 50%;
+}
+
+.iconWithBadge {
+    display: flex;
+    align-items: flex-start;
+}
+
+.badge, .badge:hover {
+    background-color: white;
+    color: #404040;
+    border-radius: 50%;
+    width: 10px;
+    height: 10px;
+    font-size: 8px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+
+
+
+
